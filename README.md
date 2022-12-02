@@ -1,7 +1,7 @@
-# 2022-2 Machine Learning Termproject - Movie Recommendation System
+# Movie Recommendation System
 ## Abstract
 ### About Repository
-Repository that saved the term project conducted by Machine Learning (Guidance Professor: Professor Won Kim) in Gachon University's software major class in the second semester of 2022
+Repository that saved movie recommendation system trained using Full MovieLens Dataset containing 45,000 films
 
 ### Input and Output
 * Input : Dataset(Dataframe)
